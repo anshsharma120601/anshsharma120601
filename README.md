@@ -8,7 +8,10 @@
 
 ## Visit my personal profile here 👉🏻 [My Profile](https://ansh-sharma.com/)
 
-# Bio  
+# Languages and Frameworks known📕:
+* ### 🐍Python
+* ### ♨︎Javascript
+* ### ⚛️React js
 
 ## Connect with me 👇
 <a href="https://www.linkedin.com/in/ansh-sharma-96635120a/">

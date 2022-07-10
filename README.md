@@ -10,9 +10,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some of my favourite animes❤️:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anshsharma120601/anshsharma120601/blob/main/Black%20Clover.jpeg">
   <img align="center" height="350" width="250" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Black%20Clover.jpeg" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anshsharma120601/anshsharma120601/blob/main/Soma%20Yukihira%20Et%20Erina%20Nakiri.png">
+  <img align="center" height="350" width="250" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Soma%20Yukihira%20Et%20Erina%20Nakiri.png" />
 </a>

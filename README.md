@@ -36,7 +36,7 @@
 ## Github Stats 😎
 ![Ansh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshsharma120601&show_icons=true&theme=tokyonight) 
 
-### Some of my favourite animes❤️:
+### Some of my favourite animes I love to watch in my enjoy time❤️:
 <a href="https://github.com/anshsharma120601/anshsharma120601/blob/main/Black%20Clover.jpeg">
   <img align="center" height="350" width="250" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Black%20Clover.jpeg" />
 </a>

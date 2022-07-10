@@ -11,7 +11,7 @@
 
 ### Some of my favourite animes❤️:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" height="350" width="250" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Black%20Clover.jpeg" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />

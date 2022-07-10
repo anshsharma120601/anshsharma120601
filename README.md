@@ -3,8 +3,8 @@
 
 # About me 🤗
 * 🧑🏽‍💻 I am passionate about learning new technologies and algorithms like [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) and [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network). Also my future goals include studying [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing).
-* ⚛️ I have previously worked in Front-end web development using Reactjs at a local startup.
-* 👯 I'm interested in collaborating with fellow enthusiasts in the field of Deep Learning. If you have any ideas related to my areas of interest, feel free to shoot me an [email!](mailto:anshsharma120601@gmail.com) or connect with me on [whatsapp](https://api.whatsapp.com/send?phone=+91-7011061359&text=Hello%20).
+* ⚛️ I have previously worked in Front-end web development using [Reactjs](https://en.wikipedia.org/wiki/React_(JavaScript_library)) at a local startup.
+* 👯 I'm interested in collaborating with fellow enthusiasts in the field of research. If you have any ideas related to my areas of interest, feel free to shoot me an [email!](mailto:anshsharma120601@gmail.com) or connect with me on [whatsapp](https://api.whatsapp.com/send?phone=+91-7011061359&text=Hello%20).
 
 ## Visit my personal profile here 👉🏻 [My Profile](https://ansh-sharma.com/)
 

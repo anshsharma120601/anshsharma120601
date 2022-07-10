@@ -41,4 +41,7 @@
   <img align="center" height="350" width="250" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Soma%20Yukihira%20Et%20Erina%20Nakiri.png" />
 </a>
 
-## [ブラッククローバー]() [フードウォーズ]()
+## [ブラッククローバー]()&nbsp; &nbsp; &nbsp; &nbsp; [フードウォーズ]()
+## Black Clover&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Food Wars
+
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; さよなら👋

@@ -13,22 +13,22 @@
 ## Connect with me 👇
 <a href="">
   <img align="center" height="50" width="120" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Linkedin.png" />
-</a>
+</a>&nbsp; 
+<a href="">
+  <img align="center" height="50" width="110" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Email.jpeg" />
+</a>&nbsp; 
 <a href="">
   <img align="center" height="50" width="120" src="" />
-</a>
+</a>&nbsp; 
 <a href="">
   <img align="center" height="50" width="120" src="" />
-</a>
+</a>&nbsp; 
 <a href="">
   <img align="center" height="50" width="120" src="" />
-</a>
+</a>&nbsp; 
 <a href="">
   <img align="center" height="50" width="120" src="" />
-</a>
-<a href="">
-  <img align="center" height="50" width="120" src="" />
-</a>
+</a>&nbsp; 
 
 ## Github Stats 😎
 ![Ansh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshsharma120601&show_icons=true&theme=tokyonight) 

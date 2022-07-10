@@ -11,8 +11,7 @@
 ## Connect with me 👇
 
 ## Github Stats 👇
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshsharma120601&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshsharma120601&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some of my favourite animes❤️:
 <a href="https://github.com/anshsharma120601/anshsharma120601/blob/main/Black%20Clover.jpeg">

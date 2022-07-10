@@ -12,22 +12,22 @@
 
 ## Connect with me 👇
 <a href="">
-  <img align="center" height="50" width="50" src="" />
+  <img align="center" height="50" width="120" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Linkedin.png" />
 </a>
 <a href="">
-  <img align="center" height="50" width="50" src="" />
+  <img align="center" height="50" width="120" src="" />
 </a>
 <a href="">
-  <img align="center" height="50" width="50" src="" />
+  <img align="center" height="50" width="120" src="" />
 </a>
 <a href="">
-  <img align="center" height="50" width="50" src="" />
+  <img align="center" height="50" width="120" src="" />
 </a>
 <a href="">
-  <img align="center" height="50" width="50" src="" />
+  <img align="center" height="50" width="120" src="" />
 </a>
 <a href="">
-  <img align="center" height="50" width="50" src="" />
+  <img align="center" height="50" width="120" src="" />
 </a>
 
 ## Github Stats 😎

@@ -11,19 +11,19 @@
 # Bio  
 
 ## Connect with me 👇
-<a href="">
+<a href="https://www.linkedin.com/in/ansh-sharma-96635120a/">
   <img align="center" height="50" width="120" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Linkedin.png" />
 </a>&nbsp; 
-<a href="">
+<a href="mailto:anshsharma120601@gmail.com">
   <img align="center" height="50" width="110" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Email.jpeg" />
 </a>&nbsp; 
-<a href="">
+<a href="https://api.whatsapp.com/send?phone=+91-7011061359&text=Hello%20">
   <img align="center" height="50" width="130" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/WhatsApp.jpeg" />
 </a>&nbsp; 
-<a href="">
+<a href="https://www.instagram.com/anshsharma1206/?hl=en">
   <img align="center" height="50" width="110" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/instagram.jpeg" />
 </a>&nbsp; 
-<a href="">
+<a href="https://www.facebook.com/profile.php?id=100001596154001">
   <img align="center" height="65" width="130" src="https://github.com/anshsharma120601/anshsharma120601/blob/main/Facebook.png" />
 </a>&nbsp; 
 <a href="">
